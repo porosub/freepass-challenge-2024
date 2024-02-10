@@ -1,4 +1,5 @@
 # Freepass Poros 2024
+![logo](https://porosfilkom.ub.ac.id/logo-poros.svg)
 Selamat datang! Ini adalah challenge bagi kamu untuk menyelesaikan tantangan yang diberikan oleh kami! Ini bukanlah satu-satunya jalan untuk menjadi anggota POROS, namun ini merupakan jalur khusus untuk menjadi anggota POROS tanpa melakukan seleksi.
 
 ## Challenge List
