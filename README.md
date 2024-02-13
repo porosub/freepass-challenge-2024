@@ -13,5 +13,5 @@ Challenge yang kami berikan terbagi menjadi tiga bagian berdasarkan departemen R
 > Please click this [link](https://github.com/porosub/freepass-backend-2024)
 
 ### Security
-> TBA
+> Please click this [link](https://github.com/idhamma/Poros-Freepass-Security)
 
